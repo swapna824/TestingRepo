@@ -20,7 +20,7 @@ public class SingleInheritance extends Single {
 		// TODO Auto-generated method stub
 		Single s=new Single();
 		s.add(2,5);
-		s.sub(5,2);
+		s.sub(5,1);
 	}
 
 }
